@@ -1,0 +1,2 @@
+# training
+Trenovaci git
